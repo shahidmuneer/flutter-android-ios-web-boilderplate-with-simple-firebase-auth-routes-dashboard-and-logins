@@ -1,0 +1,4 @@
+
+flutter build web --no-sound-null-safety
+flutter run -d chrome --no-sound-null-safety
+flutter pub get 
